@@ -1,0 +1,19 @@
+Generating all morphisms in D_1 to D_2 using 20 cores...
+
+Enumerating Morphisms: 100%|█████████████████████████████████| 4/4 [00:00<00:00, 13774.40it/s]
+
+Total number of morphisms: 7
+Total number of endomorphisms: 4
+
+Finding equivalence classes using parallel computation...
+
+Checking Equivalence: 100%|███████████████████████████████████| 4/4 [00:00<00:00, 4656.46it/s]
+Number of equivalence classes (Trace of D_2): 2
+
+Class 1:
+  D_1 -> D_1: (1,)
+  D_2 -> D_2: (1, 1)
+  D_2 -> D_2: (2, 2)
+
+Class 2:
+  D_2 -> D_2: (1, 2)
